@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm <a href= "https://github.com/karangadani">Karan Gadani</a></h1>
+<h1 align="center">Hi 👋, I'm <a href= "https://github.com/karangadani">Karan Gadani</a> <img src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/17495148971553750387-512.png" width="26px"></h1>
 <h3 align="center">A passionate App Developer and ML Enthusiasts </h3>
 
 - 🔭 I’m currently working on **App Development in Flutter**
